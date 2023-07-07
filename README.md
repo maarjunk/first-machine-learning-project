@@ -13,6 +13,7 @@ create a linear regression model with a simple training set including 10 data (p
 1 - in traing set all the data belong to cars with have the model (production year ) that belongs to the period of 1398 to 1399
 2 - all the data in training set belong to car with gray color 
 3 - all the data in training set belong to car with manual gearbox 
+4 - our data come from https://bama.ir/car/peugeot-207?mileage=1
 
 
 
